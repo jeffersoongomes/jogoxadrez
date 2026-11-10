@@ -1,5 +1,7 @@
 # ♟️ Jogo de Xadrez Moderno (JavaScript puro)
 
+Dê Play aqui para jogar ▶  https://jeffersoongomes.github.io/jogoxadrez/
+
 > Um jogo de xadrez completo, responsivo e interativo, desenvolvido em **HTML5, CSS3 e JavaScript puro (Vanilla JS)**, sem
 >  dependências externas ou frameworks pesados. Conta com lógica robusta de
 >  regras oficiais, IA integrada e sintetizador de áudio via Web Audio API.
